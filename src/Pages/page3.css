@@ -1,0 +1,12 @@
+.contactus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #40a9e6;
+    border-radius: 20px;
+    background:  #40a9e6;
+    border-radius: 20px;
+    box-shadow: -4rem -4rem 2em #00000044;
+    background-color: #40a9e6;
+    margin-top: 100px;
+}

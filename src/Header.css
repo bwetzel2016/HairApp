@@ -1,0 +1,46 @@
+/* Header.css */
+nav {
+    background-color: #000000; /* Change the background color as needed */
+    color: #fff; /* Change the text color as needed */
+    padding: 10px; /* Adjust padding as needed */
+    
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Use flexbox for horizontal alignment */
+  }
+  
+  li {
+    margin-right: 50px; /* Adjust spacing between menu items as needed */
+  }
+  
+  li:last-child {
+    margin-right: 0; /* Remove margin for the last item */
+  }
+  
+  a {
+    color: #fff; /* Change link color as needed */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+
+  
+  .header-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px; /* Adjust this value as needed */
+    display: flex; /* Enable flexbox */
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    font-size: 27px;
+    
+    /* Other styles */
+  }
