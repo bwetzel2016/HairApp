@@ -3,7 +3,7 @@
 
 ## Description
 
-This web app allows users to search for weather forecasts by city and state, displaying a week's worth of weather data including temperature, wind speed, and a weather description. Users can click on a specific day's forecast to see detailed weather information for that date.
+in progress (6/07/2024)
 
 
 ## Getting Started
